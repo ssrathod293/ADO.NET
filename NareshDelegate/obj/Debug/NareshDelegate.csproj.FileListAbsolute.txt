@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\bin\Debug\NareshDelegate.exe.config
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\bin\Debug\NareshDelegate.exe
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\bin\Debug\NareshDelegate.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\obj\Debug\NareshDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\obj\Debug\NareshDelegate.exe
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\obj\Debug\NareshDelegate.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\NareshDelegate\obj\Debug\NareshDelegate.csproj.AssemblyReference.cache

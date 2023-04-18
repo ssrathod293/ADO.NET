@@ -1,0 +1,5 @@
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.Form1.resources
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.Properties.Resources.resources
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.csproj.GenerateResource.cache
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.csproj.CoreCompileInputs.cache

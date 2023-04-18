@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\bin\Debug\AdoDotNet.exe.config
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\bin\Debug\AdoDotNet.exe
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\bin\Debug\AdoDotNet.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\obj\Debug\AdoDotNet.exe
+C:\Users\ssrat\source\repos\AdoDotNet\AdoDotNet\obj\Debug\AdoDotNet.pdb

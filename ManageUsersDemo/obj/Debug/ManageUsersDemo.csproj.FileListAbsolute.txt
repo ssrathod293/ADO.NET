@@ -1,0 +1,12 @@
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\bin\Debug\ManageUsersDemo.exe.config
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\bin\Debug\ManageUsersDemo.exe
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\bin\Debug\ManageUsersDemo.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.Form1.resources
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.Properties.Resources.resources
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.csproj.GenerateResource.cache
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.exe
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.ManageRoles.resources
+C:\Users\ssrat\source\repos\AdoDotNet\ManageUsersDemo\obj\Debug\ManageUsersDemo.ManageUsers.resources

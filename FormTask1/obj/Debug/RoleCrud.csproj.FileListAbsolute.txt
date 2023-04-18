@@ -1,0 +1,11 @@
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\bin\Debug\FormTask1.exe.config
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\bin\Debug\FormTask1.exe
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\bin\Debug\FormTask1.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\RoleCrud.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.Form1.resources
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.Properties.Resources.resources
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\RoleCrud.csproj.GenerateResource.cache
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\RoleCrud.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.exe
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\FormTask1\obj\Debug\FormTask1.Form2.resources

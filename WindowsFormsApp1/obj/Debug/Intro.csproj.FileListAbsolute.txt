@@ -1,0 +1,11 @@
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\Intro.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\Intro.csproj.GenerateResource.cache
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\Intro.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ssrat\source\repos\AdoDotNet\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
